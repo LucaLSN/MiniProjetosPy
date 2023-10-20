@@ -11,7 +11,8 @@ Antes de executar o código, certifique-se de que você tenha as seguintes bibli
 
 Você pode instalá-las usando `pip`:
 
-O código irá acessar a página web, extrair os títulos e, opcionalmente, os preços dos livros, e imprimi-los no console.
+O código irá acessar a página web, extrair os títulos e, opcionalmente, os preços dos livros, e imprimi-los.
+![ResultadoFinal](https://github.com/LucaLSN/MiniProjetosPy/assets/90360265/41a3ee6c-5383-406f-a890-119fb9243785)
 
 ## Contribuições
 
